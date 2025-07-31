@@ -12,7 +12,7 @@ import iaPrimeLogo from './assets/iasemfundo.png'
 
 function App() {
   const handleWhatsAppContact = (formData) => {
-    const message = `Olá! Gostaria de solicitar um orçamen:\n\nNome: ${formData.name}\nTelefone: ${formData.phone}\nTipo de Projeto: ${formData.projectType}\nMensagem: ${formData.message}`
+    const message = `Olá! Gostaria de solicitar um orçamento:\n\nNome: ${formData.name}\nTelefone: ${formData.phone}\nTipo de Projeto: ${formData.projectType}\nMensagem: ${formData.message}`
     
     const whatsappUrl = `https://wa.me/5511947716000?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, '_blank')
