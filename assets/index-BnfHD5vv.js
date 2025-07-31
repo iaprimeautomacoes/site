@@ -156,7 +156,7 @@ Error generating stack: `+e.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const rv=[["path",{d:"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",key:"1xq2db"}]],ov=Zt("zap",rv),dv="/site/assets/hero-image-CHjaJP2F.jpg",Ld="/site/assets/iasemfundo-COMOc8Xv.png";function mv(){const s=v=>{const f=`Olá! Gostaria de solicitar um orçamento:
+ */const rv=[["path",{d:"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",key:"1xq2db"}]],ov=Zt("zap",rv),dv="/assets/hero-image-CHjaJP2F.jpg",Ld="/assets/iasemfundo-COMOc8Xv.png";function mv(){const s=v=>{const f=`Olá! Gostaria de solicitar um orçamento:
 
 Nome: ${v.name}
 Telefone: ${v.phone}
